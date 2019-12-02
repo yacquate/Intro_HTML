@@ -1,0 +1,22 @@
+body {
+    font-family: 'Merriweather', serif;
+
+}
+
+
+h1 {
+    color:blue;
+    font-family: 'Merriweather', serif;
+}
+
+h2 {
+    color:blueviolet;
+}
+
+h3 {
+    color:orange;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+}
